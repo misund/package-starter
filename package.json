@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/misund/get-relative-luminance.git"
+    "url": "git+https://github.com/misund/package-starter.git"
   },
   "keywords": [
     "init",
