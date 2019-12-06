@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/misund/package-starter#readme",
   "devDependencies": {
-    "@babel/cli": "7.7.4",
+    "@babel/cli": "7.7.5",
     "@babel/core": "7.7.4",
     "@babel/preset-env": "7.7.4",
     "@babel/register": "7.7.4",
